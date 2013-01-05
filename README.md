@@ -92,5 +92,5 @@ AIOverlayRouteView is a MKOverlayPathView subclass which you can use to add an a
     
 #Screenshots
 
-![MKMapView flight route](https://s3-us-west-2.amazonaws.com/droplr.storage/files/acc_2757/WbHe?AWSAccessKeyId=AKIAJSVQN3Z4K7MT5U2A&Expires=1357409512&Signature=lLp5twSuxX%2Fy7tQA39t82zKGdLg%3D&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27Screen%2520Shot%25202013-01-05%2520at%25207.02.15%2520PM.png)
-![MKMapView flight tracking](https://s3-us-west-2.amazonaws.com/droplr.storage/files/acc_2757/GZoy?AWSAccessKeyId=AKIAJSVQN3Z4K7MT5U2A&Expires=1357409510&Signature=qSyu9dPvFNR0XEoQpftk262LUto%3D&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27Screen%2520Shot%25202013-01-05%2520at%25207.02.18%2520PM.png)
+![Screenshot 1](http://f.cl.ly/items/451S010h260d0b1w032g/1.png)
+![Screenshot 2](http://f.cl.ly/items/3q433Q0L2D1T0G3N0y25/2.png)
